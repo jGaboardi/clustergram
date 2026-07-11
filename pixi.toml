@@ -22,3 +22,6 @@ myst-nb = "*"
 numpydoc = "*"
 sphinx = "*"
 sphinx-copybutton = "*"
+
+[pypi-dependencies]
+clustergram = { path = ".", editable = true }
