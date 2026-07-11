@@ -29,3 +29,7 @@ doc/notebooks/clustergram.svg
 doc/notebooks/clustergram.pickle
 
 .ruff_cache
+
+# pixi environments
+.pixi/*
+!.pixi/config.toml
